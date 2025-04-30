@@ -155,7 +155,7 @@ function check_dependencies() {
 
 function get_url() {
     ROOTFS_URL="${BASE_URL}/${IMAGE_NAME}"
-    SHA_URL="ughjjhh.        khh. "
+    SHA_URL="https://github.com/Manabendra842/Kali-nethunter-termux/blob/main/kali-nethunter-rootfs-full-arm64.tar.xz.sha256sum"
 }
 
 function get_rootfs() {
